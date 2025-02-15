@@ -1024,7 +1024,6 @@ jdk_awt_wayland = \
     -java/awt/MouseInfo \
     -java/awt/MultipleGradientPaint \
     -java/awt/Multiscreen/MouseEventTest/MouseEventTest.java \
-    -java/awt/Multiscreen/MultiScreenInsetsTest/MultiScreenInsetsTest.java \
     -java/awt/Multiscreen/MultiScreenLocationTest/MultiScreenLocationTest.java \
     -java/awt/Paint/bug8024864.java \
     -java/awt/Paint/ButtonRepaint.java \
